@@ -8,4 +8,10 @@ Due to how the Quirkbot library handles the HID devides, you **must** use at lea
 
 ## Usage
 
-Open ``DIYMakeyGo.ino`` in Arduino and upload the code to an *Arduino Pro Micro*. 
+Open ``DIYMakeyGo.ino`` in Arduino and upload the code to an *Arduino Pro Micro*. Hopefully the code will be self-explanatory.
+
+## Thanks <3
+
+[Murilo Polese](https://github.com/murilopolese) for the initial idea and first version of the sketch.
+
+Some random internet person for this [super simple implementation of a capacitive sensor](http://playground.arduino.cc/Code/CapacitiveSensor). That function is basically the heart of it all.
